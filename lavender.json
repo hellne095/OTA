@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1721030400,
+      "filename": "lineage-22.2-20250715-UNOFFICIAL-lavender.zip",
+      "id": "1234567890abcdef1234567890abcdef",
+      "romtype": "UNOFFICIAL",
+      "size": 789456123,
+      "url": "https://your-domain.com/ota/lineage-22.2-20250715-UNOFFICIAL-lavender.zip",
+      "version": "22.2"
+    }
+  ]
+}
