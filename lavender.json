@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1752018385,
+      "datetime": "1752018385",
       "filename": "lineage-22.2-20250708-UNOFFICIAL-lavender.zip",
       "id": "f5df84099302b18915e373316d6c0c3b",
       "romtype": "UNOFFICIAL",
-      "size": 1173462353,
+      "size": "1173462353",
       "url": "https://github.com/hellne095/OTA/releases/download/20250708/lineage-22.2-20250708-UNOFFICIAL-lavender.zip",
       "version": "22.2"
     }
